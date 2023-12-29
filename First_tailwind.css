@@ -1,0 +1,13 @@
+.box{
+    background-color: #ffffff;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+}
+.para{
+    font-size: 12px;
+    color: gray;
+    font-weight: 100;
+    text-align: center;
+}
